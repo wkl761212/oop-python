@@ -34,4 +34,6 @@ class Facility:
             f.writelines(list_facilities_name)
 
 
+Facility.displayFacilities()
 Facility.addFacility()
+Facility.displayFacilities()

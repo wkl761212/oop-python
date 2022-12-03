@@ -1,0 +1,24 @@
+
+Admit Facility
+
+Canteen
+
+Emergency
+
+ABC
+
+Enter the facility: Covid Care
+['Hospital  Facility are:\n', 'Ambulance\n', 'Admit Facility\n', 'Canteen\n', 'Emergency\n', 'ABC\n', 'Covid Care\n']
+Ambulance
+
+Admit Facility
+
+Canteen
+
+Emergency
+
+ABC
+
+Covid Care
+
+PS C:\SAIT\Git\python-project>
